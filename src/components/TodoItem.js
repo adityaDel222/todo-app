@@ -10,4 +10,4 @@ class TodoItem extends Component {
   }
 }
 
-export default Todos;
+export default TodoItem;
